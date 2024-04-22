@@ -1,37 +1,11 @@
-#Simple Calculator
-#This is a simple calculator web application built using HTML, CSS, and JavaScript.
+# NewSimple-Calculator
+# Overview
 
-Features
-Addition
-Subtraction
-Multiplication
-Division
-How to Use
-Clone this repository to your local machine.
-Open the index.html file in your web browser.
-Usage
-Enter numbers using the buttons.
-Press the operation buttons (+, -, *, /) to perform calculations.
-Press the "=" button to display the result.
-Use the "C" button to clear the input.
-Example
-Addition:
-Enter the first number.
-Click the "+" button.
-Enter the second number.
-Click the "=" button to see the result.
-Subtraction:
-Enter the first number.
-Click the "-" button.
-Enter the second number.
-Click the "=" button to see the result.
-Multiplication:
-Enter the first number.
-Click the "*" button.
-Enter the second number.
-Click the "=" button to see the result.
-Division:
-Enter the first number.
-Click the "/" button.
-Enter the second number.
-Click the "=" button to see the result
+Simple Calculator is a web-based calculator application created using HTML, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division. This calculator is designed with a simple and user-friendly interface, making it suitable for performing quick calculations on the web.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
